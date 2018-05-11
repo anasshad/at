@@ -2,7 +2,7 @@
   "name": "smartadmin-reactjs",
   "version": "1.9.0",
   "description": "Smartadmin ReactJs template",
-  "main": "index.js",
+  "main": "./src/app/main.js",
   "scripts": {
     "build": "./node_modules/.bin/webpack --config webpack.config.js --progress --colors  --env production",
     "build-dev": "./node_modules/.bin/webpack --config webpack.config.js --progress --colors  --env development",
